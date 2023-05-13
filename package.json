@@ -1,0 +1,26 @@
+{
+  "name": "git-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirzahayat/git-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirzahayat/git-bot/issues"
+  },
+  "homepage": "https://github.com/mirzahayat/git-bot#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "random": "^3.0.6",
+    "simple-git": "^3.17.0"
+  }
+}
